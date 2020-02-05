@@ -1,3 +1,5 @@
 # Whats-the-Tea
 
-## this is a site for viewing my website, What's the Tea? 
+## What's the Tea | [Website](mainPage.html)
+<img src="images/christmasproducts.PNG" width="300" height="300"> 
+
